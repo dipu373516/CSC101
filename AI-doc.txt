@@ -1,8 +1,0 @@
-**My AI Prompt:**
-"Help me write Python code to read a text file, display its contents clearly, and calculate file statistics like number of lines, number of words, first and last lines, longest line, and total character count."
-
-**What the AI Helped Me With:**
-The AI helped me write the Python code for reading the text file and calculating different statistics. It also explained how each part of the code works and helped me fix small mistakes.
-
-**What I Learned:**
-I learned how to read a file in Python and how to use loops and string methods to count lines, words, and characters from the file.
