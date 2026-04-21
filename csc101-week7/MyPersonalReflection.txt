@@ -1,0 +1,10 @@
+## My Reflection
+
+**What surprised me about working with files:**
+I was surprised how easy it is to read and work with files in Python. I didn’t expect that we could turn simple text into useful data so quickly.
+
+**How this connects to business:**
+This skill is useful in business because companies work with a lot of data files like customer records, sales reports, and logs. Being able to read and analyse these files can help in decision-making.
+
+**Next thing I want to learn:**
+I want to learn how to work with CSV files and larger datasets, and how to analyse real-world data more efficiently.
